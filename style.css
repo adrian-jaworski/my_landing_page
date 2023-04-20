@@ -5,7 +5,7 @@
     font-family: Arial, Helvetica, sans-serif
   }
   ::selection{
-    color: ;
+    color: white  ;
     background: magenta;
   }
   nav{
